@@ -1,0 +1,3 @@
+[submodule "myo-tetris"]
+	path = myo-tetris
+	url = https://github.com/HaozhengGu/myo-tetris
